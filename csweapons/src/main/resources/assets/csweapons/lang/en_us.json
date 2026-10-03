@@ -1,0 +1,17 @@
+{
+  "itemGroup.csweapons.main": "CS Weapons",
+  "item.csweapons.bullet": "Bullet",
+  "key.csweapons.reload": "Reload Weapon",
+  "key.categories.csweapons": "CS Weapons",
+  "item.csweapons.glock_18": "Glock-18",
+  "item.csweapons.usp_s": "USP-S",
+  "item.csweapons.desert_eagle": "Desert Eagle",
+  "item.csweapons.mp9": "MP9",
+  "item.csweapons.ak_47": "AK-47",
+  "item.csweapons.m4a4": "M4A4",
+  "item.csweapons.awp": "AWP",
+  "item.csweapons.combat_knife": "Combat Knife",
+  "item.csweapons.karambit": "Karambit",
+  "item.csweapons.butterfly_knife": "Butterfly Knife",
+  "item.csweapons.bayonet": "Bayonet"
+}
